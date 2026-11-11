@@ -25,7 +25,7 @@
 | --- | --- |
 | 業務内容 | Java を用いたカーナビの不具合調査およびコード修正<br>各種機器の基本動作確認<br>海外の提携先企業との英語・日本語の通訳業務 |
 | 担当フェーズ | 開発、修正 |
-| 開発環境等 | Java、Android、Android Studio、Sublime |
+| 開発環境等 | Java、Android、Android Studio、Sublime、Visual Studio Code |
 | 役割・体制 | メンバー／10名程度 |
 
 ### その他経歴
